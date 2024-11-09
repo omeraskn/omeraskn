@@ -1,8 +1,10 @@
 ### Hi 👋, I'm Ömer.
 I am a senior Computer Engineering student at Yıldız Technical University with a strong focus on becoming a
-blockchain developer. 
+blockchain developer.
+
 I have been a blockchain user for over four years and have more than two years of
 experience working with Solidity and its frameworks on EVM networks. 
+
 Currently, I am advancing my skills in
 the Solana ecosystem as part of the Turbin3 cohort program, where I am working with Rust, Anchor, and
 TypeScript
